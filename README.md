@@ -39,8 +39,4 @@ The channel uses overlap collisions. Downlink model delivery is reliable and
 its timing is modeled separately. Uplink transmission costs exclude device
 computation, receive and idle energy, and gateway/server energy.
 
-## Reproducibility
 
-This package currently provides the simulation core. Paper-specific sweep
-launchers, configurations, and required reference artifacts are not yet part
-of this public package; it is not yet a complete paper reproduction release.
